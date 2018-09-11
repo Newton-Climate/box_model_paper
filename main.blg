@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: apalike.bst
+Database file #1: citations.bib
+Warning--empty year in nisbet_rising_nodate
+You've used 13 entries,
+            1935 wiz_defined-function locations,
+            562 strings with 7835 characters,
+and the built_in function-call counts, 7763 in all, are:
+= -- 683
+> -- 600
+< -- 5
++ -- 228
+- -- 226
+* -- 778
+:= -- 1390
+add.period$ -- 39
+call.type$ -- 13
+change.case$ -- 175
+chr.to.int$ -- 13
+cite$ -- 14
+duplicate$ -- 200
+empty$ -- 376
+format.name$ -- 239
+if$ -- 1434
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 14
+newline$ -- 68
+num.names$ -- 39
+pop$ -- 156
+preamble$ -- 1
+purify$ -- 176
+quote$ -- 0
+skip$ -- 161
+stack$ -- 0
+substring$ -- 411
+swap$ -- 32
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 76
+warning$ -- 1
+while$ -- 44
+width$ -- 0
+write$ -- 169
+(There was 1 warning)
